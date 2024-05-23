@@ -31,7 +31,7 @@ def h_mundur():
     print(f"{Fore.YELLOW}Ketik {Fore.BLUE}make run {Fore.YELLOW} untuk menjalankan program...")
 
 while True:   
-        pilih = input(f"{Fore.BLACK}_   {Fore.WHITE}╚══{Fore.BLUE}⟩ {Style.RESET_ALL}"    
+        pilih = input(f"{Fore.BLACK}_   {Fore.WHITE}╚══{Fore.BLUE}⟩ {Style.RESET_ALL}" )
     if pilih == "":
         clean.clear()
         print('''
