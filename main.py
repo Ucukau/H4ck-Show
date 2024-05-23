@@ -14,7 +14,7 @@ import time
 import sys
 
 clean.clear()
-print(f"{Fore.BLUE}Klik Enter Untuk Kembali Ke Menu..{Style.RESET_ALL}")
+print(Fore.BLUE + "Klik Enter Untuk Kembali Ke Menu.." + Style.RESET_ALL)
 import time
 
 def h_mundur():
